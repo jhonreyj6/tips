@@ -8,3 +8,5 @@ php artisan view:cache
 env APP_DEBUG=false
 
 
+cmd command for laravel storage local doesn't display image
+chmod -R 775 storage/
